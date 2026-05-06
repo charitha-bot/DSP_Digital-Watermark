@@ -1,7 +1,7 @@
 # DSP_Digital-Watermark
 MATLAB implementation of Digital Image Watermarking using DWT for DSP applications.
 
-# Digital Image Watermarking using DWT
+## Digital Image Watermarking using DWT
 
 This project implements Digital Image Watermarking using Discrete Wavelet Transform (DWT) in MATLAB.
 
